@@ -1,0 +1,157 @@
+
+    .button1 {
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: grey;
+    color: white;
+    padding: 15px 32px;
+    margin-left: 125px;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    display: inline-block;
+    }
+    
+    .button1:hover {
+    background-color: lightgray;
+    color: grey;
+    }
+    
+    .button2 {
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: grey;
+    color: white;
+    padding: 15px 32px;
+    margin-left: 130px;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    display: inline-block;
+    }
+    
+    .button2:hover {
+    background-color: lightgray;
+    color: grey;
+    }
+
+    .button3 {
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: grey;
+    color: white;
+    padding: 15px 32px;
+    margin-left: 125px;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+    display: inline-block;
+    }
+    
+    .button3:hover {
+    background-color: lightgray;
+    color: grey;
+    }
+
+    .one:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    }
+    
+    .two:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    }
+
+    .three:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    }
+
+    a:link  {
+    font-family: Montserrat, sans-serif;
+    font-weight: 200;
+    text-align: right;
+    margin-left: 315px;
+    }
+  
+
+    h1 {
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    }  
+    
+    h2 {
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    font-size: 2.5em;
+    } 
+    
+    h3 {
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    }
+
+    h4 {
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    }
+
+    h5 {
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    }
+
+    p {
+    font-family: Montserrat, sans-serif;
+    font-weight: 500;   
+    text-align: justify;
+    font-size: 0.7em;
+    }
+
+
+    .tilt {
+    transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    }
+ 
+    .tilt:hover {
+      transform: rotate(5deg);
+      transform: rotate(5deg);
+      transform: rotate(5deg);
+      transform: rotate(5deg);
+      transform: rotate(5deg);
+    }
+
+    .grow img {
+        
+        width: 670px;
+        height: 450px;
+       
+      transition: all 1s ease;
+      transition: all 1s ease;
+      transition: all 1s ease;
+      transition: all 1s ease;
+      transition: all 1s ease;
+    }
+ 
+    .grow img:hover {
+    width: 700px;
+    height: 480px;
+    }
+
+    .map {
+    width:53%;
+    margin-left: 60px;
+    }
+   
+    .container {
+    float: right;
+    width:35%;
+    margin-top: 90px;
+    margin-right:69px;
+    margin-left:0px;
+    
+    
+    }
+
